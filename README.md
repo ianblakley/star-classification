@@ -3,3 +3,4 @@
 * I elected to use the RandomForest model for this task as it is particularly effective at classification.
 * The model was very successful with a 97.86% accuracy.
 * This model can be deployed in the future to expedite the process of classifying newly discovered celestial objects.
+* Dataset was found here: [](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17)
